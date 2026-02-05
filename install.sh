@@ -77,7 +77,7 @@ cd "$TEMP_DIR"
 # For simplicity, we'll clone the entire repo
 echo "Cloning repository..."
 git clone https://github.com/hmazelier/clawdbot-ansible.git
-cd openclaw-ansible
+cd clawdbot-ansible
 
 echo -e "${GREEN}✓ Playbook downloaded${NC}"
 
